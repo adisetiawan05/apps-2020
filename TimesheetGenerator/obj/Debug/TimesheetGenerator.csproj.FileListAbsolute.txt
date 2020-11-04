@@ -1,0 +1,12 @@
+D:\VS Project\TimesheetGenerator\TimesheetGenerator\obj\Debug\TimesheetGenerator.csprojAssemblyReference.cache
+D:\VS Project\TimesheetGenerator\TimesheetGenerator\obj\Debug\TimesheetGenerator.TimesheetGenerator.resources
+D:\VS Project\TimesheetGenerator\TimesheetGenerator\obj\Debug\TimesheetGenerator.Properties.Resources.resources
+D:\VS Project\TimesheetGenerator\TimesheetGenerator\obj\Debug\TimesheetGenerator.csproj.GenerateResource.cache
+D:\VS Project\TimesheetGenerator\TimesheetGenerator\obj\Debug\TimesheetGenerator.csproj.CoreCompileInputs.cache
+D:\VS Project\TimesheetGenerator\TimesheetGenerator\bin\Debug\TimesheetGenerator.exe.config
+D:\VS Project\TimesheetGenerator\TimesheetGenerator\bin\Debug\TimesheetGenerator.exe
+D:\VS Project\TimesheetGenerator\TimesheetGenerator\bin\Debug\TimesheetGenerator.pdb
+D:\VS Project\TimesheetGenerator\TimesheetGenerator\obj\Debug\TimesheetGenerator.exe
+D:\VS Project\TimesheetGenerator\TimesheetGenerator\obj\Debug\TimesheetGenerator.pdb
+D:\VS Project\TimesheetGenerator\TimesheetGenerator\obj\Debug\TimesheetGenerator.Script.SettingForm.resources
+D:\VS Project\TimesheetGenerator\TimesheetGenerator\obj\Debug\TimesheetGenerator.Script.ExportForm.resources
